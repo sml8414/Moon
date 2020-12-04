@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<a href="https://i.pinimg.com/"><img src= "https://i.pinimg.com/564x/e1/14/3b/e1143bd586d38e5b5be6913994eb67bb.jpg"/></a>
+<a href="https://i.pinimg.com/"><img src= "https://i.pinimg.com/564x/e1/14/3b/e1143bd586d38e5b5be6913994eb67bb.jpg"<width="500" height="600"></a>
 
 My name is Samantha Marie Lewis. I was born and raised in Wilmington, North Carolina. I have also lived in Rexburg, Idaho and Denton, Texas. I graduated from the University of North Carolina Wilmington with a BA in English in 2016. My concentration was in literature and I studied a lot of feminist theory. I graduated from UNCW once again in 2019 with a Masters of Teaching in Secondary Education. During my educational years, I mainly spent my time as a teacher assistant to Honors and AP English seniors. I enjoyed teaching Shakespeare and working with students on their college essays and plans. 
 
