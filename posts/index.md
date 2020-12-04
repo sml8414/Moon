@@ -6,4 +6,5 @@ comments: false
 <p>My updated resume. This details my personal achievements, work experience and education. I'm always looking for new opportunities to gain more experience in my desired field.</p>
 
  <a href="https://imgur.com/">
-         <img alt="Qries" src="https://imgur.com/a/JL92O1E"
+         <img alt="Qries" https://imgur.com/a/gwbJWyD"
+         width=150" height="70">
