@@ -14,5 +14,4 @@ My favorite hobbies are writing, reading, playing video and tabletop games and l
 
 <a href="https://i.pinimg.com/">
          <img alt="image" https://i.pinimg.com/564x/e1/14/3b/e1143bd586d38e5b5be6913994eb67bb.jpg"
-         width=150" height="70">
       </a>
