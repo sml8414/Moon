@@ -6,10 +6,9 @@ comments: false
 
 <h2>LGBT YA Lit Advocacy LibGuide</h2>
 
-<p>A LibGuide created for LGBT Pride Month. It is comprised of young adult fiction and graphic novels to inspire young people love themselves and celebrate their uniqueness and LGBT identity. A display was created with materials pulled from a branch of the New Hanover County Library system; all books used can be found in the LibGuide materials. The display is pictured in the LibGuide as well. Contributors: Samantha Lewis and Samantha Lashley.</p>
-
 <a href="http://libapps.s3.amazonaws.com/sites/9901/guides/1008335/backups/guide_id_1008335_1588448928.html">Go Here</a>
 
+<p>A LibGuide created for LGBT Pride Month. It is comprised of young adult fiction and graphic novels to inspire young people love themselves and celebrate their uniqueness and LGBT identity. A display was created with materials pulled from a branch of the New Hanover County Library system; all books used can be found in the LibGuide materials. The display is pictured in the LibGuide as well. Contributors: Samantha Lewis and Samantha Lashley.</p>
 
 <h2>Women & Women Writers of Color LibGuide</h2>
 
@@ -25,6 +24,7 @@ comments: false
  
 <h2>Discussing Bookless Libraries Using MySimpleShow</h2>
 
+<a href="https://videos.mysimpleshow.com/vpcNap3j1o">Go Here</a>
+
 A presentation created using the program MySimpleShow to discuss the possibility of bookless libraries. The video touches on what bookless libraries might look like, the likelihood of the increase of bookless libraries overtime and the pros and cons of their implementation. Created by Samantha Lewis.</p>
 
-<a href="https://videos.mysimpleshow.com/vpcNap3j1o">Go Here</a>
