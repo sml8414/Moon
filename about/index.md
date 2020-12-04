@@ -12,4 +12,4 @@ My favorite hobbies are writing, reading, playing video and tabletop games and l
 
 [jekyll-organization]: https://github.com/jekyll
 
-<img src=”https://i.pinimg.com/564x/e1/14/3b/e1143bd586d38e5b5be6913994eb67bb.jpg” alt=”Image” height=”100px” width=”50px”>.
+<a href="https://i.pinimg.com/"><img src="https://i.pinimg.com/564x/e1/14/3b/e1143bd586d38e5b5be6913994eb67bb.jpg" title="image" /></a>
