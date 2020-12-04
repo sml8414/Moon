@@ -1,5 +1,5 @@
 ---
-layout: compress
+layout: list
 title: My Resume
 excerpt: "My updated resume. This details my personal achievements, work experience and education. I'm always looking for new opportunities to gain more experience in my desired field."
 comments: false
