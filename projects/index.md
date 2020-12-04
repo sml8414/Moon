@@ -20,11 +20,11 @@ comments: false
 
 <a href="https://wakelet.com/wake/cnSXJMaMIvFev9MaGFiQa">Go Here</a>
 
-<p>A curation featuring articles, videos and reports on how Drag Queen Story Hour has impacted libraries and the lives of children and drag queens all over America. Included is information about how to get involved, scholarly articles about how beneficial DQSHs are for children, drag queens and libraries as well as accounts of libraries receiving backlash from their communities about having DQSH at their branches. Created by Samantha Lewis</p>
+<p>A curation featuring articles, videos and reports on how Drag Queen Story Hour has impacted libraries and the lives of children and drag queens all over America. Included is information about how to get involved, scholarly articles about how beneficial DQSHs are for children, drag queens and libraries as well as accounts of libraries receiving backlash from their communities about having DQSH at their branches. Created by Samantha Lewis.</p>
  
 <h2>Discussing Bookless Libraries Using MySimpleShow</h2>
 
 <a href="https://videos.mysimpleshow.com/vpcNap3j1o">Go Here</a>
 
-A presentation created using the program MySimpleShow to discuss the possibility of bookless libraries. The video touches on what bookless libraries might look like, the likelihood of the increase of bookless libraries overtime and the pros and cons of their implementation. Created by Samantha Lewis.</p>
+<p>A presentation created using the program MySimpleShow to discuss the possibility of bookless libraries. The video touches on what bookless libraries might look like, the likelihood of the increase of bookless libraries overtime and the pros and cons of their implementation. Created by Samantha Lewis.</p>
 
