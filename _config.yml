@@ -4,8 +4,8 @@ bio:                LIS student showing her personal website.
 description:        My Personal Website 
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/Front_Color-White.jpg'
-background:         'assets/img/placeholder-big.jpg'
+logo:               'assets/img/logo.jpg'
+background:         'assets/img/Front_Color-White.jpg'
 tiled_bg:           true # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://sml8414.github.io/Moon/
