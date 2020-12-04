@@ -4,7 +4,7 @@ bio:                LIS student showing her personal website.
 description:        My Personal Website 
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo.jpg'
+logo:               'assets/img/selfie-pic.jpg'
 background:         'assets/img/Front_Color-White.jpg'
 tiled_bg:           false # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
