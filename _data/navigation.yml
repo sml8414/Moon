@@ -1,4 +1,7 @@
 # Site navigation links
 
-- title: resume
+- title: Resume
   url: /projects/
+
+- title: Resume
+  url: /posts/
